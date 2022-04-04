@@ -1,6 +1,6 @@
 # G2M
 Gradual Guidance Learning with Middle Feature for Weakly Supervised Object Localization
-<<<<<<< HEAD
+
 =======
 
 # Prerequisites 
@@ -19,4 +19,4 @@ python test_loc.py conv5_1
 # TODO
 
 Release codes about G2M
->>>>>>> master
+
