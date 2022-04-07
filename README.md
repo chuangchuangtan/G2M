@@ -19,10 +19,14 @@ python test_loc.py conv5_1
 | Method   | metric   | S5   | S4   | S3   | S2   | S1   |
 | -------- | -------- | ---- | ---- | ---- | ---- | ---- |
 | layercam | Top1 loc |46.62 |44.05 |41.83 |43.18 |43.71 |
-| layercam | Top1 loc |57.83 |55.02 |52.28 |53.60 |54.34 |
-| sgl-g11  | Top1 loc |      |      |      |      |      |
+| layercam | Top5 loc |57.83 |55.02 |52.28 |53.60 |54.34 |
+| layercam | Top1 loc without cla|      |      |      |      |      |
 | sgl-g1   | Top1 loc |      |      |      |      |      |
-
+| sgl-g1   | Top5 loc |      |      |      |      |      |
+| sgl-g1   | Top1 loc without cla |      |      |      |      |      |
+| sgl-g3   | Top1 loc |      |      |      |      |      |
+| sgl-g3   | Top5 loc |      |      |      |      |      |
+| sgl-g3   | Top1 loc without cla |      |      |      |      |      |
 
 
 
