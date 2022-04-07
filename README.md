@@ -15,6 +15,16 @@ Use the test script to generate attention maps of LayerCAM, SGL, DGL on official
 ```
 python test_loc.py conv5_1
 ```
+# Results on caffe VGG model using [layercam_loc](https://github.com/PengtaoJiang/layercam_loc).
+| Method   | metric   | S5   | S4   | S3   | S2   | S1   |
+| -------- | -------- | ---- | ---- | ---- | ---- | ---- |
+| layercam | Top1 loc |      |      |      |      |      |
+| layercam | Top1 loc |      |      |      |      |      |
+| sgl-g11  | Top1 loc |      |      |      |      |      |
+| sgl-g1   | Top1 loc |      |      |      |      |      |
+
+
+
 
 # TODO
 
