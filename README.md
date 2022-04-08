@@ -33,6 +33,7 @@ python test_loc.py conv5_1
 Rssults on different layers
 
 | Layers   | Method     | Top1 loc | Top5 loc | Top1 loc without cla|
+| -------- | --------   | ----     | ----     | ----                |
 |conv5_3   | Layercam   |44.19     |55.02     |59.29                |
 |conv5_3   | sgl-g1     |32.16     |39.90     |42.80                |
 |conv5_2   | Layercam   |45.83     |56.88     |61.23                |
