@@ -16,18 +16,6 @@ Use the test script to generate attention maps of LayerCAM, SGL, DGL on official
 python test_loc.py conv5_1
 ```
 # Results on caffe VGG model using [layercam_loc](https://github.com/PengtaoJiang/layercam_loc).
-| Method   | metric              | S5   | S4   | S3   | S2   | S1   |
-| -------- | --------            | ---- | ---- | ---- | ---- | ---- |
-| layercam | Top1 loc            |46.62 |44.05 |41.83 |43.18 |43.71 |
-| layercam | Top5 loc            |57.83 |55.02 |52.28 |53.60 |54.34 |
-| layercam | Top1 loc without cla|62.02 |59.48 |55.50 |57.51 |58.34 |
-| sgl-g1   | Top1 loc            |30.39 |46.58 |44.45 |42.77 |      |
-| sgl-g1   | Top5 loc            |37.73 |57.95 |55.17 |53.35 |      |
-| sgl-g1   | Top1 loc without cla|40.45 |62.41 |59.39 |57.60 |      |
-| sgl-g3   | Top1 loc            |30.39 |46.54 |44.34 |      |      |
-| sgl-g3   | Top5 loc            |37.73 |57.88 |55.02 |      |      |
-| sgl-g3   | Top1 loc without cla|40.45 |62.32 |59.21 |      |      |
-
 
 
 Rssults on different layers
@@ -48,10 +36,10 @@ Rssults on different layers
 |conv4_2   | sgl-g1     |42.71     |53.49     |58.22                |
 |conv4_1   | Layercam   |42.99     |53.57     |57.73                |
 |conv4_1   | sgl-g1     |39.35     |49.41     |53.83                |
-|pool3     | Layercam   |          |          |                     |
-|pool3     | sgl-g1     |          |          |                     |
-|conv3_3   | Layercam   |          |          |                     |
-|conv3_3   | sgl-g1     |          |          |                     |
+|pool3     | Layercam   |42.23     |52.72     |56.95                |
+|pool3     | sgl-g1     |38.00     |47.64     |51.83                |
+|conv3_3   | Layercam   |43.00     |53.51     |57.44                |
+|conv3_3   | sgl-g1     |45.06     |56.16     |60.63                |
 |conv3_2   | Layercam   |          |          |                     |
 |conv3_2   | sgl-g1     |          |          |                     |
 |conv3_1   | Layercam   |          |          |                     |
