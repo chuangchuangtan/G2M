@@ -20,7 +20,7 @@ python test_loc.py conv5_1
 | -------- | --------            | ---- | ---- | ---- | ---- | ---- |
 | layercam | Top1 loc            |46.62 |44.05 |41.83 |43.18 |43.71 |
 | layercam | Top5 loc            |57.83 |55.02 |52.28 |53.60 |54.34 |
-| layercam | Top1 loc without cla|62.02 |59.48 |55.50 |      |      |
+| layercam | Top1 loc without cla|62.02 |59.48 |55.50 |57.51 |58.34 |
 | sgl-g1   | Top1 loc            |      |      |      |      |      |
 | sgl-g1   | Top5 loc            |      |      |      |      |      |
 | sgl-g1   | Top1 loc without cla|      |      |      |      |      |
