@@ -40,8 +40,8 @@ Rssults on different layers
 |pool3     | sgl-g1     |38.00     |47.64     |51.83                |
 |conv3_3   | Layercam   |43.00     |53.51     |57.44                |
 |conv3_3   | sgl-g1     |45.06     |56.16     |60.63                |
-|conv3_2   | Layercam   |          |          |                     |
-|conv3_2   | sgl-g1     |          |          |                     |
+|conv3_2   | Layercam   |42.04     |52.26     |56.02                |
+|conv3_2   | sgl-g1     |44.36     |55.37     |59.81                |
 |conv3_1   | Layercam   |          |          |                     |
 |conv3_1   | sgl-g1     |          |          |                     |
 |pool2     | Layercam   |          |          |                     |
