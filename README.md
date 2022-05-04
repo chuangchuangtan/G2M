@@ -18,7 +18,7 @@ python test_loc.py conv5_1
 # Results on caffe VGG model using [layercam_loc](https://github.com/PengtaoJiang/layercam_loc).
 
 
-Rssults on different layers
+Rssults on different layers with 0.15 threshold.
 
 | Layers   | Method     | Top1 loc | Top5 loc | GT-Known loc        |
 | -------- | --------   | ----     | ----     | ----                |
