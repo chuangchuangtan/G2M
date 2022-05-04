@@ -36,8 +36,7 @@ Rssults on different layers with 0.15 threshold.
 |conv4_2   | sgl-g1     |42.64     |53.39     |58.12         |
 |conv4_1   | Layercam   |42.99     |53.57     |57.73                |
 |conv4_1   | sgl-g1     |39.08     |49.09     |53.48         |
-|pool3     | Layercam   |42.23     |52.72     |56.95                |
-|pool3     | sgl-g1     |37.80     |47.35     |51.52         |
+
 
 
 # TODO
