@@ -38,24 +38,7 @@ Rssults on different layers
 |conv4_1   | sgl-g1     |39.08     |49.09     |53.48         |
 |pool3     | Layercam   |42.23     |52.72     |56.95                |
 |pool3     | sgl-g1     |37.80     |47.35     |51.52         |
-|conv3_3   | Layercam   |43.00     |53.51     |57.44                |
-|conv3_3   | sgl-g1     |     |     |         |
-|conv3_2   | Layercam   |42.04     |52.26     |56.02                |
-|conv3_2   | sgl-g1     |     |     |        |
-|conv3_1   | Layercam   |41.69     |51.71     |55.39                |
-|conv3_1   | sgl-g1     |          |          |                     |
-|pool2     | Layercam   |42.63     |52.9     1|56.75                |
-|pool2     | sgl-g1     |          |          |                     |
-|conv2_2   | Layercam   |43.81     |54.54     |58.60                |
-|conv2_2   | sgl-g1     |          |          |                     |
-|conv2_1   | Layercam   |43.46     |54.07     |58.04                |
-|conv2_1   | sgl-g1     |          |          |                     |
-|pool1     | Layercam   |          |          |                     |
-|pool1     | sgl-g1     |          |          |                     |
-|conv1_2   | Layercam   |          |          |                     |
-|conv1_2   | sgl-g1     |          |          |                     |
-|conv1_1   | Layercam   |          |          |                     |
-|conv1_1   | sgl-g1     |          |          |                     |
+
 
 # TODO
 
